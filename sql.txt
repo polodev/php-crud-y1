@@ -1,4 +1,4 @@
-create datbase company;
+create database company;
 use company;
 
 create table employees (
